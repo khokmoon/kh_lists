@@ -697,3 +697,7 @@ nftset=/zohomail.com/4#inet#fw4#vpn_domains_en
 nftset=/zona.media/4#inet#fw4#vpn_domains_en
 nftset=/2ip.ru/4#inet#fw4#vpn_domains_en
 nftset=/myip.ru/4#inet#fw4#vpn_domains_ru
+nftset=/discord.com/4#inet#fw4#vpn_domains_ru
+nftset=/gateway.discord.gg/4#inet#fw4#vpn_domains_ru
+nftset=/cdn.discordapp.com/4#inet#fw4#vpn_domains_ru
+nftset=/discordapp.net/4#inet#fw4#vpn_domains_ru
