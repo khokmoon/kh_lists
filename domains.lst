@@ -723,3 +723,4 @@ nftset=/mcmaster.com/4#inet#fw4#vpn_domains_en
 nftset=/launchdarkly.com/4#inet#fw4#vpn_domains_en
 nftset=/damassets.net/4#inet#fw4#vpn_domains_en
 nftset=/erome.com/4#inet#fw4#vpn_domains_en
+nftset=/deepl.com/4#inet#fw4#vpn_domains_en
