@@ -956,3 +956,4 @@ nftset=/youtubeembeddedplayer.googleapis.com/4#inet#fw4#vpn_domains_ru
 nftset=/youtubei.googleapis.com/4#inet#fw4#vpn_domains_ru
 nftset=/yt3.googleusercontent.com/4#inet#fw4#vpn_domains_ru
 nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains_ru
+nftset=/nyaa.si/4#inet#fw4#vpn_domains_en
