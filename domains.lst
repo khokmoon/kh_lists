@@ -207,6 +207,7 @@ nftset=/discordapp.net/4#inet#fw4#vpn_domains_en
 nftset=/discordmerch.com/4#inet#fw4#vpn_domains_en
 nftset=/discordpartygames.com/4#inet#fw4#vpn_domains_en
 nftset=/discordsays.com/4#inet#fw4#vpn_domains_en
+nftset=/storage.googleapis.com/4#inet#fw4#vpn_domains_en
 nftset=/discours.io/4#inet#fw4#vpn_domains_en
 nftset=/disctech.com/4#inet#fw4#vpn_domains_en
 nftset=/disneyplus.com/4#inet#fw4#vpn_domains_en
