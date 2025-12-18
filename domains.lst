@@ -1058,4 +1058,5 @@ nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains_ru
 nftset=/youtube-ui.l.google.com/4#inet#fw4#vpn_domains_ru
 nftset=/youtubeembeddedplayer.googleapis.com/4#inet#fw4#vpn_domains_ru
 nftset=/youtubei.googleapis.com/4#inet#fw4#vpn_domains_ru
+nftset=/l.google.com/4#inet#fw4#vpn_domains_ru
 nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains_ru
