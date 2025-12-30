@@ -1060,3 +1060,7 @@ nftset=/rowblox.com/4#inet#fw4#vpn_domains_en
 nftset=/tryroblox.com/4#inet#fw4#vpn_domains_en
 nftset=/youmakethegame.com/4#inet#fw4#vpn_domains_en
 nftset=/youmakethegames.com/4#inet#fw4#vpn_domains_en
+################ MAJESTIC ################
+nftset=/majestic-files.net/4#inet#fw4#vpn_domains_en
+nftset=/majestic-files.com/4#inet#fw4#vpn_domains_en
+nftset=/sentry-majestic.com/4#inet#fw4#vpn_domains_en
