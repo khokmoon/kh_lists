@@ -888,7 +888,6 @@ nftset=/verstka.media/4#inet#fw4#vpn_domains_en
 nftset=/vesma.one/4#inet#fw4#vpn_domains_en
 nftset=/vesma.today/4#inet#fw4#vpn_domains_en
 nftset=/vesty.co.il/4#inet#fw4#vpn_domains_en
-nftset=/viber.com/4#inet#fw4#vpn_domains_en
 nftset=/vice.com/4#inet#fw4#vpn_domains_en
 nftset=/vine.co/4#inet#fw4#vpn_domains_en
 nftset=/vipergirls.to/4#inet#fw4#vpn_domains_en
@@ -1064,3 +1063,7 @@ nftset=/sentry-majestic.com/4#inet#fw4#vpn_domains_en
 ################ IP CHECK ################
 nftset=/2ip.ru/4#inet#fw4#vpn_domains_ru
 nftset=/2ip.io/4#inet#fw4#vpn_domains_en
+################ VIBER ################
+nftset=/viber.com/4#inet#fw4#vpn_domains_en
+nftset=/viber-cdn.com/4#inet#fw4#vpn_domains_en
+nftset=/vibercdn.com/4#inet#fw4#vpn_domains_en
