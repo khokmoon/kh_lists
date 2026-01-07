@@ -1065,8 +1065,10 @@ nftset=/2ip.ru/4#inet#fw4#vpn_domains_ru
 nftset=/2ip.io/4#inet#fw4#vpn_domains_en
 ################ VIBER ################
 nftset=/viber.com/4#inet#fw4#vpn_domains_en
+nftset=/viber.net/4#inet#fw4#vpn_domains_en
 nftset=/viber-cdn.com/4#inet#fw4#vpn_domains_en
 nftset=/vibercdn.com/4#inet#fw4#vpn_domains_en
+nftset=/vbr.com/4#inet#fw4#vpn_domains_en
 nftset=/vb.me/4#inet#fw4#vpn_domains_en
 nftset=/viberdns.com/4#inet#fw4#vpn_domains_en
 nftset=/rakuten.com/4#inet#fw4#vpn_domains_en
