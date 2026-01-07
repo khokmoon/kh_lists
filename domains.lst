@@ -1070,3 +1070,4 @@ nftset=/vibercdn.com/4#inet#fw4#vpn_domains_en
 nftset=/vb.me/4#inet#fw4#vpn_domains_en
 nftset=/viberdns.com/4#inet#fw4#vpn_domains_en
 nftset=/rakuten.com/4#inet#fw4#vpn_domains_en
+nftset=/aws.amazon.com/4#inet#fw4#vpn_domains_en
