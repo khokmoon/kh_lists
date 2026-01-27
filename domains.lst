@@ -1075,3 +1075,10 @@ nftset=/rakuten.com/4#inet#fw4#vpn_domains_en
 nftset=/aws.amazon.com/4#inet#fw4#vpn_domains_en
 nftset=/appboy.com/4#inet#fw4#vpn_domains_en
 nftset=/adjust.com/4#inet#fw4#vpn_domains_en
+################ CLASH ROYALE ################
+nftset=/usercentrics.eu/4#inet#fw4#vpn_domains_en
+nftset=/sentry.io/4#inet#fw4#vpn_domains_en
+nftset=/supercell.com/4#inet#fw4#vpn_domains_en
+nftset=/clashroyaleapp.com/4#inet#fw4#vpn_domains_en
+nftset=/squadbustersgame.com/4#inet#fw4#vpn_domains_en
+nftset=/appsflyersdk.com/4#inet#fw4#vpn_domains_en
