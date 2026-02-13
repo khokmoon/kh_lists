@@ -1082,3 +1082,5 @@ nftset=/rutracker.cc/4#inet#fw4#vpn_domains_en
 nftset=/rutracker.net/4#inet#fw4#vpn_domains_en
 nftset=/rutracker.org/4#inet#fw4#vpn_domains_en
 nftset=/rutracker.wiki/4#inet#fw4#vpn_domains_en
+################ SERVICES ################
+nftset=/duckdns.org/4#inet#fw4#vpn_domains_en
