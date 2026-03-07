@@ -1089,3 +1089,7 @@ nftset=/production-openaicom-storage.azureedge.net/4#inet#fw4#vpn_domains_en
 nftset=/gemini.google.com/4#inet#fw4#vpn_domains_en
 nftset=/claude.ai/4#inet#fw4#vpn_domains_en
 nftset=/nanoclaw.net/4#inet#fw4#vpn_domains_en
+################ COPILOT ################
+github.com
+githubusercontent.com
+githubcopilot.com
