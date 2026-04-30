@@ -1095,3 +1095,9 @@ nftset=/nanoclaw.net/4#inet#fw4#vpn_domains_en
 nftset=/github.com/4#inet#fw4#vpn_domains_en
 nftset=/githubusercontent.com/4#inet#fw4#vpn_domains_en
 nftset=/githubcopilot.com/4#inet#fw4#vpn_domains_en
+################ DISCORD ################
+nftset=/discord.app/4#inet#fw4#vpn_domains_en
+nftset=/discord.status/4#inet#fw4#vpn_domains_en
+nftset=/discordcdn.com/4#inet#fw4#vpn_domains_en
+nftset=/discordsez.com/4#inet#fw4#vpn_domains_en
+nftset=/discordstatus.com/4#inet#fw4#vpn_domains_en
