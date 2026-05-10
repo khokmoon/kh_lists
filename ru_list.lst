@@ -11,8 +11,6 @@
 /.vk.com
 /.ok.ru
 /.odnoklassniki.ru
-/.telegram.org
-/.t.me
 
 # === Search / portals ===
 /.yandex.ru
@@ -20,6 +18,7 @@
 /.mail.ru
 /.rambler.ru
 /.kinopoisk.ru
+/.ipify.org
 
 # === Marketplaces ===
 /.ozon.ru
@@ -48,7 +47,5 @@
 /.hh.ru
 
 # === Other ===
-/.rutracker.org
-/.rutor.info
 /.2ch.hk
 /.dzen.ru
