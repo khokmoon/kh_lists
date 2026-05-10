@@ -1,1 +1,54 @@
+# RU domain list - traffic routed through RU gateway directly
+# Lines starting with # are comments
+# Wildcard syntax: /.domain.com = domain.com + *.domain.com
+# Zone syntax: /.ru = ALL .ru domains, /.xn--p1ai = ALL .рф domains
 
+# === Zones ===
+/.ru
+/.xn--p1ai
+
+# === Social ===
+/.vk.com
+/.ok.ru
+/.odnoklassniki.ru
+/.telegram.org
+/.t.me
+
+# === Search / portals ===
+/.yandex.ru
+/.ya.ru
+/.mail.ru
+/.rambler.ru
+/.kinopoisk.ru
+
+# === Marketplaces ===
+/.ozon.ru
+/.wildberries.ru
+/.avito.ru
+
+# === Banks ===
+/.sberbank.ru
+/.tinkoff.ru
+/.alfabank.ru
+/.vtb.ru
+/.gazprombank.ru
+
+# === Government ===
+/.gosuslugi.ru
+/.esia.gosuslugi.ru
+
+# === Media ===
+/.ivi.ru
+/.okko.tv
+/.rt.com
+/.tass.ru
+/.rbc.ru
+
+# === Work ===
+/.hh.ru
+
+# === Other ===
+/.rutracker.org
+/.rutor.info
+/.2ch.hk
+/.dzen.ru
