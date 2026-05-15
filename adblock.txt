@@ -1,0 +1,15 @@
+! Title: kh_lists — Personal Ad Blocklist
+! Description: Custom ad/tracker domains for AdGuard Home
+! Homepage: https://github.com/khokmoon/kh_lists
+! License: https://raw.githubusercontent.com/khokmoon/kh_lists/main/LICENSE
+! Expires: 1 day (update frequency)
+! Last Modified: 2026-05-15
+!
+! Syntax: AdGuard DNS filtering rules
+! ||domain.com^  — block domain + all subdomains
+! @@||domain.com^  — unblock (whitelist)
+! # Comment — lines starting with # or ! are ignored
+!
+! Send links/screenshots of ads to add them here.
+! Format: one rule per line, || prefix = domain + subdomains, ^ = end marker
+!
