@@ -10,23 +10,22 @@
 ! @@||domain.com^  — unblock (whitelist)
 ! # Comment — lines starting with # or ! are ignored
 !
-! Send links/screenshots of ads to add them here.
-! Format: one rule per line, || prefix = domain + subdomains, ^ = end marker
+! IMPORTANT: AdGuard Home is a DNS-level blocker.
+! It can only block DOMAINS, not URL paths like /ads/
+! So we block specific ad SUBDOMAINS, not main domains.
 !
 
 # ============================================================
 # AdFox — Яндекс реклама (баннеры, Rich-media, in-text)
-# Блокируем только рекламные субдомены/пути, НЕ весь yandex.ru
+# Блокируем ТОЛЬКО рекламные субдомены, НЕ весь yandex.ru
 # ============================================================
+||ads.adfox.ru^
 ||an.yandex.ru^
-||yandex.ru/ads/^
-||yastatic.net/pcode/^
-
-# AdFox banner system (загрузчики баннеров)
-||yastatic.net/pcode-native/^
+||mc.yandex.ru^
+||yastatic.net^
 
 # ============================================================
-# Google AdSense
+# Google AdSense / Ads
 # ============================================================
 ||pagead2.googlesyndication.com^
 ||googleads.g.doubleclick.net^
@@ -39,15 +38,20 @@
 # ============================================================
 # Ad networks & SSP
 # ============================================================
-||cdn.al-adtech.com^
 ||al-adtech.com^
+||cdn.al-adtech.com^
 
 # Video ads
-||cdn.viqeo.tv^
 ||viqeo.tv^
+||cdn.viqeo.tv^
 
 # ============================================================
 # Trackers & fingerprinting
 # ============================================================
 ||fp.hybrid.ai^
 ||st.hbrd.io^
+
+# ============================================================
+# Source: igromania.ru
+# Date: 2026-05-15
+# ============================================================
