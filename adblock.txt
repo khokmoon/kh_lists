@@ -13,3 +13,41 @@
 ! Send links/screenshots of ads to add them here.
 ! Format: one rule per line, || prefix = domain + subdomains, ^ = end marker
 !
+
+# ============================================================
+# AdFox — Яндекс реклама (баннеры, Rich-media, in-text)
+# Блокируем только рекламные субдомены/пути, НЕ весь yandex.ru
+# ============================================================
+||an.yandex.ru^
+||yandex.ru/ads/^
+||yastatic.net/pcode/^
+
+# AdFox banner system (загрузчики баннеров)
+||yastatic.net/pcode-native/^
+
+# ============================================================
+# Google AdSense
+# ============================================================
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||googletagmanager.com^
+||googletagservices.com^
+||doubleclick.net^
+
+# ============================================================
+# Ad networks & SSP
+# ============================================================
+||cdn.al-adtech.com^
+||al-adtech.com^
+
+# Video ads
+||cdn.viqeo.tv^
+||viqeo.tv^
+
+# ============================================================
+# Trackers & fingerprinting
+# ============================================================
+||fp.hybrid.ai^
+||st.hbrd.io^
