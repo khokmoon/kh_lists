@@ -20,6 +20,8 @@
 # ============================================================
 ||an.yandex.ru^
 ||yandex.ru/ads/^
+||yandex.ru/adfox/^
+||yandex.ru/an/^
 ||yastatic.net/pcode/^
 
 # AdFox banner system (загрузчики баннеров)
