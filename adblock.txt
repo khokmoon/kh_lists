@@ -22,10 +22,11 @@
 ||ads.adfox.ru^
 ||an.yandex.ru^
 ||mc.yandex.ru^
+||mc.yandex.com^
 ||yastatic.net^
 
 # ============================================================
-# Google AdSense / Ads
+# Google AdSense / Ads / Analytics
 # ============================================================
 ||pagead2.googlesyndication.com^
 ||googleads.g.doubleclick.net^
@@ -34,16 +35,19 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||doubleclick.net^
+||stats.g.doubleclick.net^
+||region1.analytics.google.com^
 
 # ============================================================
 # Ad networks & SSP
 # ============================================================
 ||al-adtech.com^
-||cdn.al-adtech.com^
+||betweendigital.com^
+||adiam.tech^
+||aidata.io^
 
 # Video ads
 ||viqeo.tv^
-||cdn.viqeo.tv^
 
 # ============================================================
 # Trackers & fingerprinting
