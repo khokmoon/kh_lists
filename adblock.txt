@@ -45,6 +45,9 @@
 ||betweendigital.com^
 ||adiam.tech^
 ||aidata.io^
+||rutarget.ru^
+||buzzoola.com^
+||bumlam.com^
 
 # Video ads
 ||viqeo.tv^
