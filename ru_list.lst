@@ -18,15 +18,23 @@
 # === Media ===
 /.okko.tv
 /.rt.com
-/.youtube.com
-/.youtu.be
-/.googlevideo.com
-/.ytimg.com
-/.ggpht.com
-/.youtube-nocookie.com
-/.youtube.googleapis.com
-/.youtube-ui.l.google.com
-/.wide-youtube.l.google.com
 
 # === Other ====
 /.emias.info
+
+# === Youtube ====
+/.youtube.com
+/.googlevideo.com
+/.ytimg.com
+/.ggpht.com
+/.youtu.be
+/.youtube-nocookie.com
+/.youtubekids.com
+/.youtubego.com
+/.youtubei.googleapis.com — внутреннее API YouTube
+/.youtube.googleapis.com — публичное API
+/.youtubeembeddedplayer.googleapis.com — встраиваемый плеер
+/.yt3.googleusercontent.com — контент с каналов
+/.yt.ggpht.com — превью в формате Google Photos
+/.wide-youtube.l.google.com — Widevine DRM
+/.ads.youtube.com
