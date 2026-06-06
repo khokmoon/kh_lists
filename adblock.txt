@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/khokmoon/kh_lists
 ! License: https://raw.githubusercontent.com/khokmoon/kh_lists/main/LICENSE
 ! Expires: 1 day (update frequency)
-! Last Modified: 2026-05-15
+! Last Modified: 2026-06-06
 !
 ! Syntax: AdGuard DNS filtering rules
 ! ||domain.com^  — block domain + all subdomains
@@ -57,6 +57,14 @@
 # ============================================================
 ||fp.hybrid.ai^
 ||st.hbrd.io^
+
+# ============================================================
+# Source: business-gazeta.ru
+# Date: 2026-06-06
+# ============================================================
+||metrika.yandex.ru^
+||zen.yandex.ru^
+||informer.yandex.ru^
 
 # ============================================================
 # Source: igromania.ru
