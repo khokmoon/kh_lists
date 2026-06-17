@@ -24,6 +24,7 @@
 ||mc.yandex.ru^
 ||mc.yandex.com^
 ||yastatic.net^
+||ads.adfox.ru^
 
 # ============================================================
 # Google AdSense / Ads / Analytics
@@ -51,6 +52,8 @@
 
 # Video ads
 ||viqeo.tv^
+||vqserve.com^
+||videonow.ru^
 
 # ============================================================
 # Trackers & fingerprinting
@@ -67,6 +70,7 @@
 ||informer.yandex.ru^
 
 # ============================================================
-# Source: igromania.ru
+# Source: games
 # Date: 2026-05-15
 # ============================================================
+||s3-ca-crosspromo.easybrain.com^
