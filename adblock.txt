@@ -23,8 +23,8 @@
 ||an.yandex.ru^
 ||mc.yandex.ru^
 ||mc.yandex.com^
-||yastatic.net^
 ||ads.adfox.ru^
+||pudya.yastatic.net^
 
 # ============================================================
 # Google AdSense / Ads / Analytics
