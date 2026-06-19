@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/khokmoon/kh_lists
 ! License: https://raw.githubusercontent.com/khokmoon/kh_lists/main/LICENSE
 ! Expires: 1 day (update frequency)
-! Last Modified: 2026-06-06
+! Last Modified: 2026-06-20
 !
 ! Syntax: AdGuard DNS filtering rules
 ! ||domain.com^  — block domain + all subdomains
@@ -25,6 +25,8 @@
 ||pudya.yastatic.net^
 ||zen.yandex.ru^
 ||informer.yandex.ru^
+||mc.yandex.ru^
+||yastatic.net^
 
 # ============================================================
 # Google AdSense / Ads / Analytics
