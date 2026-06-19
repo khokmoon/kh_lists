@@ -21,7 +21,7 @@
 # ============================================================
 ||ads.adfox.ru^
 ||an.yandex.ru^
-||ads.adfox.ru^
+||adfox.ru^
 ||pudya.yastatic.net^
 ||zen.yandex.ru^
 ||informer.yandex.ru^
