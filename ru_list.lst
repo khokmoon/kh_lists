@@ -13,6 +13,7 @@
 # === Search / portals ===
 /.yandex.net
 /.yandexcloud.net
+/.yandex-pogoda.static-storage.net
 
 # === Media ===
 /.okko.tv
