@@ -51,6 +51,7 @@
 ||rutarget.ru^
 ||buzzoola.com^
 ||bumlam.com^
+||adcombo.ru^
 
 # ============================================================
 # Video ads
@@ -58,12 +59,28 @@
 ||viqeo.tv^
 ||vqserve.com^
 ||videonow.ru^
+||viadata.store^
+||adriver.ru^
+||widdimo.com^
+||cdn-rtb.sape.ru^
+||punchmedia.ru^
+||programmatica.com^
+||kimberlite.io^
+||adrush.space^
+||adx.com.ru^
 
 # ============================================================
 # Trackers & fingerprinting
 # ============================================================
 ||fp.hybrid.ai^
 ||st.hbrd.io^
+||acint.net^
+||otm-r.com^
+||adhigh.net^
+||adspend.space^
+||ussp.io^
+||rtb.mts.ru^
+||privacy-cs.mail.ru^
 
 # ============================================================
 # Source: games
