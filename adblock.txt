@@ -26,7 +26,6 @@
 ||zen.yandex.ru^
 ||informer.yandex.ru^
 ||mc.yandex.ru^
-||yastatic.net^
 
 # ============================================================
 # Google AdSense / Ads / Analytics
