@@ -1,0 +1,23 @@
+! Title: kh-rules
+! Description: Общие правила AdGuard для домашнего мастера и спутниковых роутеров
+! Homepage: https://github.com/khokmoon/kh_lists
+! Last modified: 2026-08-05
+!
+! Источник истины — user_rules домашнего AdGuard (CT 101). Этот файл публикуемая копия:
+! спутники подписываются на него как на обычный фильтр-лист и тянут сами.
+! Подключать строго как блок-лист (whitelist:false) — три правила ниже блокирующие,
+! в режиме allowlist они инвертируются в разрешающие.
+!
+@@||click.redditmail.com^$important
+@@||max.ru^$important
+@@||pixel.rustore.ru^$important
+||rb.mail.ru^
+||dsp.rambler.ru^
+||sberads.ru^
+@@||sentry.ozon.ru^$important
+@@||firebaseremoteconfig.googleapis.com^$important
+@@||safebrowsing.googleapis.com^$important
+@@||autofill.yandex.ru^$important
+@@||auth.split.io^$important
+@@||sdk.split.io^$important
+@@||storage.orion.bendingspoons.com^$important
