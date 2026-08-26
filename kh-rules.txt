@@ -1,7 +1,7 @@
 ! Title: kh-rules
 ! Description: Общие правила AdGuard для домашнего мастера и спутниковых роутеров
 ! Homepage: https://github.com/khokmoon/kh_lists
-! Last modified: 2026-08-05
+! Last modified: 2026-08-26
 !
 ! Источник истины — user_rules домашнего AdGuard (CT 101). Этот файл публикуемая копия:
 ! спутники подписываются на него как на обычный фильтр-лист и тянут сами.
@@ -21,3 +21,4 @@
 @@||auth.split.io^$important
 @@||sdk.split.io^$important
 @@||storage.orion.bendingspoons.com^$important
+@@||antibot.wildberries.ru^
