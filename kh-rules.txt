@@ -22,3 +22,4 @@
 @@||sdk.split.io^$important
 @@||storage.orion.bendingspoons.com^$important
 @@||antibot.wildberries.ru^
+@@||brightdata.com^$important
