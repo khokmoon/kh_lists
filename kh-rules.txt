@@ -8,6 +8,9 @@
 ! Подключать строго как блок-лист (whitelist:false) — три правила ниже блокирующие,
 ! в режиме allowlist они инвертируются в разрешающие.
 !
+@@||ngfts.lge.com^$important
+@@||ruc-ngfts.lge.com^$important
+@@||eic-ngfts.lge.com^$important
 @@||click.redditmail.com^$important
 @@||max.ru^$important
 @@||pixel.rustore.ru^$important

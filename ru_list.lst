@@ -34,6 +34,11 @@
 /.1cfresh.com
 /.rustdesk.com
 
+# === LG TV (store/app updates must see a Russian IP; ads still blocked in AdGuard) ===
+/.lgappstv.com
+/.lge.com
+/.lgtvcommon.com
+
 # === Youtube ====
 /.youtube.com
 /.googlevideo.com
